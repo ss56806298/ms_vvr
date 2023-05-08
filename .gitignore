@@ -1,0 +1,6 @@
+thirdparty/
+logs/
+outputs/
+inputs/
+build_shared/
+build/
